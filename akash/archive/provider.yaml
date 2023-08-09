@@ -1,0 +1,12 @@
+# ---
+# from: "akash17c075qdrhr3ymq9zu4qu4jz4r32vpqlnlv24mm"
+# key: "LS0tLS1CRUdJTiBURU5ERVJNSU5UIFBSSVZBVEUgS0VZLS0tLS0Ka2RmOiBiY3J5cHQKc2FsdDogNEFGNTg4OEZBNEQxMUQyQUQ3OUU4QzlDQjY1OENBQTAKdHlwZTogc2VjcDI1NmsxCgptcDR2a1cwUkQ1MkNpTElERVNiRUszSmZnSjVhU2FPeUV1Sk1jM0xxazF0VFJ6bUc1OHNLdzU3dlZiQWdCQUxNCkxKc1FJQlgvRnluUlpnUm0xR1lORWx1aEZGV0J3RWQvNTljaUdscz0KPUkyWHIKLS0tLS1FTkQgVEVOREVSTUlOVCBQUklWQVRFIEtFWS0tLS0tCg=="
+# keysecret: "cWF6MTIzNDUK"
+# domain: "cypherpunklabs.uk"
+# node: "http://rpc.testnet-02.aksh.pw:26657"
+# withdrawalperiod: 12h
+# attributes:
+#   - key: host
+#     value: akash
+#   - key: tier
+#     value: community

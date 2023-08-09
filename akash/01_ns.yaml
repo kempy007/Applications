@@ -1,0 +1,14 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: akash-services
+  labels:
+    akash.network/name: akash-services 
+    akash.network: true
+---
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: lease
+  labels:
+    akash.network: true
