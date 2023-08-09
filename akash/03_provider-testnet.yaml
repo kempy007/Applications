@@ -22,7 +22,7 @@ metadata:
 type: "Opaque"
 data:
   key.txt: "LS0tLS1CRUdJTiBURU5ERVJNSU5UIFBSSVZBVEUgS0VZLS0tLS0Ka2RmOiBiY3J5cHQKc2FsdDogNEFGNTg4OEZBNEQxMUQyQUQ3OUU4QzlDQjY1OENBQTAKdHlwZTogc2VjcDI1NmsxCgptcDR2a1cwUkQ1MkNpTElERVNiRUszSmZnSjVhU2FPeUV1Sk1jM0xxazF0VFJ6bUc1OHNLdzU3dlZiQWdCQUxNCkxKc1FJQlgvRnluUlpnUm0xR1lORWx1aEZGV0J3RWQvNTljaUdscz0KPUkyWHIKLS0tLS1FTkQgVEVOREVSTUlOVCBQUklWQVRFIEtFWS0tLS0tCg=="
-  key-pass.txt: "cWF6MTIzNDUK"
+  key-pass.txt: "cWF6MTIzNDU=" 
 ---
 # Source: provider/templates/configmap-bidscripts.yaml
 apiVersion: v1
