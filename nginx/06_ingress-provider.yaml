@@ -1,0 +1,24 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  name: akash-provider-ingress
+  namespace: akash-services
+  annotations:
+      cert-manager.io/issuer: "letsencrypt-prod"
+spec:
+  ingressClassName: akash-ingress-class
+  tls:
+    - hosts:
+        - provider.cypherpunklabs.uk
+      secretName: ingress-akash-provider-tls
+  rules:
+  - host: provider.cypherpunklabs.uk
+    http:
+      paths:
+      - path: /
+        pathType: Prefix
+        backend:
+          service:
+            name: akash-provider
+            port:
+              number: 8443
