@@ -95,5 +95,6 @@ akash1a7fqrf489s7lg28g2clnuhe2khvxqamqu6creq # tmonty12#4448 - August 1 2023
 akash10ml4dz5npgyhzx3xq0myl44dzycmkgytmc9rhe # Luna - August 1 2023
 akash1qymxrv5sk6xc4tv9ld9avf4gkq7wpuu5rtcajx # tmonty12#4448 - August 9 2023
 akash16x5mstahy3k48gdw9q3vjp5u63mdxl5xml8zgk # scooterman2234 - August 6 2023
-akash1wlry5lt90vf3f5ntyv5n95t63uh9x8udh8chm0 # deployment 
+akash1wlry5lt90vf3f5ntyv5n95t63uh9x8udh8chm0 # provider 
+akash1sd90r0sln7cq9yqf62qw4yepmh6fymn7z2ej97 # deploy
 akash17c075qdrhr3ymq9zu4qu4jz4r32vpqlnlv24mm # provider 
